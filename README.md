@@ -149,7 +149,7 @@ This project simulates how a real retail company can:
 * Improve customer satisfaction
 
 
-⭐ If you like this project
+If you like this project
 
 Give it a star or connect with me on LinkedIn!
 
