@@ -1,6 +1,6 @@
 🛒 Blinkit Retail Sales Analytics Dashboard
 
-
+ 
 ## 📌 Project Overview
 
 This project is a **business-focused retail analytics solution** built using Power BI.
@@ -18,7 +18,8 @@ Unlike basic visual projects, this dashboard follows a structured approach:
 
 **Business Requirement → KPI Design → Analysis → Visualization → Insights**
 
----
+<img width="1203" height="512" alt="image" src="https://github.com/user-attachments/assets/747b18ff-0039-4dac-b073-6b833baf6a5c" />
+
 
 ## 🎯 Business Requirement
 
