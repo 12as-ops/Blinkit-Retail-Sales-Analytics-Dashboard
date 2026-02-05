@@ -1,6 +1,7 @@
 # Blinkit Retail Sales Analytics Dashboard
 
-![Uploading image.png…]()
+<img width="1203" height="512" alt="image" src="https://github.com/user-attachments/assets/a78bcea0-3b3d-4805-ab53-30c5a396e8db" />
+
 
 
 
