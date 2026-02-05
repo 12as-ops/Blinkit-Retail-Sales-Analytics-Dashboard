@@ -21,7 +21,7 @@ Unlike basic visual projects, this dashboard follows a structured approach:
 <img width="1203" height="512" alt="image" src="https://github.com/user-attachments/assets/747b18ff-0039-4dac-b073-6b833baf6a5c" />
 
 
-## 🎯 Business Requirement
+Business Requirement
 
 To conduct a comprehensive analysis of Blinkit’s:
 
@@ -72,7 +72,7 @@ and identify opportunities for optimization using KPIs and visual storytelling
 
 ---
 
-🔥 Key Results
+Key Results
 
 | Metric        | Value     |
 | ------------- | --------- |
@@ -92,7 +92,7 @@ Insights:
 
 ---
 
-⚙ Dashboard Features
+Dashboard Features
 
 ✅ KPI Cards
 ✅ Sales trend line chart
@@ -107,7 +107,7 @@ Insights:
 
 ---
 
-🛠 Tech Stack
+Tech Stack
 
 * Power BI Desktop
 * DAX
@@ -130,7 +130,7 @@ Insights:
 
 ---
 
-🚀 How to Run
+How to Run
 
 1. Download the .pbix file
 2. Open in Power BI Desktop
@@ -139,7 +139,7 @@ Insights:
 
 ---
 
-💡 Conclusion
+Conclusion
 
 This project simulates how a real retail company can:
 
