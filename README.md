@@ -152,4 +152,4 @@ This project simulates how a real retail company can:
 
 Give it a star or connect with me on LinkedIn!
 
-
+[https://www.linkedin.com/in/ashish-tailor-1b5672306]
