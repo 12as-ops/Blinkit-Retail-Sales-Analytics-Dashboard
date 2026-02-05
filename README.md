@@ -94,15 +94,15 @@ Insights:
 
 Dashboard Features
 
-KPI Cards
-Sales trend line chart
-Item type bar charts
-Fat content donut charts
-Outlet tier comparison
-Location funnel chart
-Interactive slicers
-Clear filter button
-Sidebar navigation
+KPI Cards,
+Sales trend line chart,
+Item type bar charts,
+Fat content donut charts,
+Outlet tier comparison,
+Location funnel chart,
+Interactive slicers,
+Clear filter button,
+Sidebar navigation,
 Professional UI design
 
 ---
