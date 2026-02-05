@@ -1,4 +1,8 @@
-Blinkit Retail Sales Analytics Dashboard
+# Blinkit Retail Sales Analytics Dashboard
+
+![Uploading image.png…]()
+
+
 
 # Project Overview
 
